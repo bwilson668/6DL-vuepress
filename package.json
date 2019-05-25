@@ -2,5 +2,27 @@
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
-  }
+  },
+  "name": "6DL-vuepress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "vuepress": "^1.0.0-alpha.48"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bwilson668/6DL-vuepress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bwilson668/6DL-vuepress/issues"
+  },
+  "homepage": "https://github.com/bwilson668/6DL-vuepress#readme",
+  "description": ""
 }
